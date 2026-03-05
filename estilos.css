@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f4f8;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #1f3b70;
+    color: white;
+    padding: 15px;
+}
+
+nav {
+    background: #294a8a;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+article, section {
+    background: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+}
+
+.galeria img {
+    width: 150px;
+    height: 100px;
+    margin: 5px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.nav-paginas a {
+    margin-right: 10px;
+    font-weight: bold;
+    color: #294a8a;
+}
+
+footer {
+    background: #1f3b70;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
